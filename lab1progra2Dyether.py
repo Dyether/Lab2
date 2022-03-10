@@ -26,4 +26,6 @@ while TRUE:
             print(a, end=",")
     elif i == 5:
         print("Gracias por usar mi super mega duper programa.")
+    elif i == 6:
+        print("Esto es una suma")
         break
