@@ -25,7 +25,7 @@ while TRUE:
         for a in range(1, numero + 1, 2):
             print(a, end=",")
     elif i == 5:
-        print("Gracias por usar mi super mega duper programa.")
+        print("Gracias por usar mi super mega duper programa blabla.")
     elif i == 6:
         print("Esto es una suma")
         break
