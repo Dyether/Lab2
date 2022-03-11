@@ -28,4 +28,6 @@ while TRUE:
         print("Gracias por usar mi super mega duper programa.")
     elif i == 6:
         print("Esto es una suma")
+    elif i == 7:
+        print("Esto es una nueva linea")    
         break
